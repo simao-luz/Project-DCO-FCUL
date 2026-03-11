@@ -87,3 +87,4 @@ Parts of the application framework, including some interface definitions and bas
 The original assignment statement is not included in this repository.
 
 ## Authors
+- Simão da Luz - fc61816
