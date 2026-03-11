@@ -88,3 +88,4 @@ The original assignment statement is not included in this repository.
 
 ## Authors
 - Simão da Luz - fc61816
+- André Marques - fc61782
